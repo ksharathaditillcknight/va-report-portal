@@ -1,0 +1,4 @@
+.vercel
+node_modules
+portal-config.json
+.env*

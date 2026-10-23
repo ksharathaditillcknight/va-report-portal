@@ -1,0 +1,7 @@
+{
+  "name": "va-report-portal",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Reporting portal demo for the Virginia CCWIS proposal",
+  "engines": { "node": ">=18" }
+}
